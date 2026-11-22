@@ -3,3 +3,4 @@ Install notes (practice file)
 2. Read the README.
 3. Follow the steps one at a time.
 - zz dry run line
+- zz dry run line
