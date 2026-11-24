@@ -3,3 +3,5 @@ Project ideas (practice file)
 - A recipe page
 - A tiny photo gallery
 - A simple budget tracker
+
+- A weather checker
